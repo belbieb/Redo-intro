@@ -1,0 +1,44 @@
+#car {
+    font-family: Arial;
+    font-weight: bold;
+  }
+  #body {
+      position: absolute;
+      top: 50px;
+      width: 55%;
+      height: 100px;
+      background-color: #f11212;
+      text-align: center;
+      border: 7px solid black;
+    border-radius: 20%;
+  }
+  #backwheel {
+      position: absolute;
+      left: 10%;
+      top: 130px;
+      background-color: #e6f511;
+      border: 5px solid black;
+      border-radius: 50%;
+      width: 80px;
+      height: 80px;
+  }
+  #frontwheel {
+      position: absolute;
+      left: 40%;
+      top: 130px;
+      background-color: #f3e411;
+      border: 5px solid black;
+      border-radius: 50%;
+      width: 80px;
+      height: 80px;
+  }
+  #cardoor  {
+    position: absolute;
+    left: 20%;
+    top: 80px;
+    background-color: #f80707;
+    border: 7px solid black;
+    border-radius: 20%;
+    width: 200px;
+    height: 60px;
+}
